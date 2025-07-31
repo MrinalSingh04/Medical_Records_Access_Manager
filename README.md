@@ -15,7 +15,7 @@ This is a Solidity smart contract that allows:
 
 All actions are logged via events and are publicly verifiable.
 
----
+--- 
 
 ## 🎯 Why this?
 
