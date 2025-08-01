@@ -3,7 +3,7 @@
 A decentralized smart contract that empowers patients to securely manage and share access to their medical records using blockchain-based permission control.
 
 ---
-
+ 
 ## ✅ What is this?
  
 This is a Solidity smart contract that allows:
