@@ -10,7 +10,7 @@ This is a Solidity smart contract that allows:
 
 - Patients to store hashes of their medical records (stored on IPFS or similar).
 - Control who (doctors, institutions) can view their records.
-- Grant and revoke access anytime. 
+- Grant and revoke access anytime.  
 - Optionally, grant time-limited access (e.g., 7 days).
 
 All actions are logged via events and are publicly verifiable.
