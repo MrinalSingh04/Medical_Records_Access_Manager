@@ -7,7 +7,7 @@ A decentralized smart contract that empowers patients to securely manage and sha
 ## ✅ What is this?
  
 This is a Solidity smart contract that allows:  
-
+  
 - Patients to store hashes of their medical records (stored on IPFS or similar).
 - Control who (doctors, institutions) can view their records.
 - Grant and revoke access anytime.  
